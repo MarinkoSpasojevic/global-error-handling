@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication1.Models;
+using GlobalErrorHandling.Models;
 
-namespace WebApplication1
+namespace GlobalErrorHandling
 {
     public static class DataManager
     {
